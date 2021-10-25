@@ -1,7 +1,7 @@
 # vba-challenge
 ## About VBA Scripting
 
-`VBA Scripting` is a VBA data analytics home-project that:
+`VBA Scripting` is a VBA data analytics endeavor that:
 1) loops through multiple cells on multiple sheets
 2) calculates specific summary data
 3) creates a summary data on each sheet
