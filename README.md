@@ -17,7 +17,7 @@ This project builds on the skills from the `excel-challenge` [here](https://gith
 - Excel
     - VBA
 
-## Technical Techniques
+## Technical Skills
 - Creating message boxes, buttons, and macros
 - Creating subroutines that utilize conditionals and variables
 - Nested for-loops
