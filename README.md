@@ -1,12 +1,11 @@
-# vba-challenge
-## About VBA Scripting
+# stock-market-ticker-analysis
+## About The VBA of Wall Street
 
-`VBA Scripting` is a VBA data analytics endeavor that:
+`The VBA of Wall Street` is a VBA data analytics challenge that:
 1) loops through multiple cells on multiple sheets
 2) calculates specific summary data
 3) creates a summary data on each sheet
-
-This project builds on the skills from the `excel-challenge` [here](https://github.com/cdenq/excel-challenge).
+on stock market ticker data.
 
 ### File Directory
 - `createSummaryTableOnEverySheet().txt` is the VBA script
